@@ -474,7 +474,7 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/depoimento google 2.png
         altText: Rangle logo
         elementId: ''
     elementId: ''
