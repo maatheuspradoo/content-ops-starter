@@ -58,10 +58,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Entre em contato via whatsapp para receber nosso catálogo e escolher
+          qual modelo gostará de produzir ou envie o modelo desejado.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
