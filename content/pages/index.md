@@ -470,7 +470,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/depoimento google 1.png
+        url: /images/depoimento google 4.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
