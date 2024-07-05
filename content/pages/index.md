@@ -478,7 +478,7 @@ sections:
         altText: Rangle logo
         elementId: ''
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/depoimento google 3.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
