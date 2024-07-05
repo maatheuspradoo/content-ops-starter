@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/depoimento google 1.png
-  altText: Case study 1
+  altText: Avaliações de Clientes
   styles:
     self:
       borderRadius: large
