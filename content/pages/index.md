@@ -204,7 +204,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/depoimento google 2.png
           altText: John Doe
           styles:
             self:
