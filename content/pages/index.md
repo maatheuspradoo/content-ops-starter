@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Modelo
         subtitle: Numbers Done
         text: >
           Entre em contato via whatsapp para receber nosso catálogo e escolher
