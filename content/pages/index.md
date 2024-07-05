@@ -14,7 +14,7 @@ sections:
         altText: ''
         url: >-
           https://api.whatsapp.com/send?phone=5537988186152&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20os%20chinelos%20Personalizados
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
