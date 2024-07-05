@@ -171,7 +171,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Avaliações
     images:
       - type: ImageBlock
         url: /images/depoimento google 4.png
