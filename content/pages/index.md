@@ -470,6 +470,13 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
+        url: /images/depoimento google 1.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/depoimento google 3.png
         altText: Image alt text placeholder
         elementId: ''
@@ -480,13 +487,6 @@ sections:
         url: /images/depoimento google 2.png
         altText: Rangle logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/depoimento google 1.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
