@@ -235,7 +235,7 @@ sections:
           explicabo.
         image:
           url: /images/depoimento google 3.png
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
