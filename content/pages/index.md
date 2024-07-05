@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Dia dos Pais 37-38 novo.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
