@@ -257,6 +257,45 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: Our customers
+    images:
+      - type: ImageBlock
+        url: /images/depoimento google 4.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/depoimento google 3.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/depoimento google 2.png
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -305,45 +344,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: ImageGallerySection
-    subtitle: Our customers
-    images:
-      - type: ImageBlock
-        url: /images/depoimento google 4.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/depoimento google 3.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/depoimento google 2.png
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
