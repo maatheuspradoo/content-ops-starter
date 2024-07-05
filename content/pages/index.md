@@ -57,7 +57,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Modelo
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Entre em contato via whatsapp para receber nosso catálogo e escolher
           qual modelo gostará de produzir ou envie o modelo desejado.
