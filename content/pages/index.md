@@ -205,7 +205,7 @@ sections:
         text: ''
         image:
           url: /images/depoimento google 2.png
-          altText: John Doe
+          altText: ''
           styles:
             self:
               borderRadius: full
