@@ -108,10 +108,11 @@ sections:
         type: FeaturedItem
       - title: Pagamento e Envio
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Escolha a forma de pagamento desejada e após 7 dias de produção +
+          tempo do frete, receba em casa seus pares de chinelos slide
+          personalizados pela ND Chinelos Personalizados.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
