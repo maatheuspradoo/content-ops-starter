@@ -179,7 +179,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/depoimento google 1.png
           altText: Maria Walters
           styles:
             self:
