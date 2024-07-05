@@ -59,7 +59,7 @@ sections:
         title: Modelo
         subtitle: ''
         text: >
-          Entre em contato via whatsapp para receber nosso catálogo e escolher
+          Entre em contato via WhatsApp para receber nosso catálogo e escolher
           qual modelo gostará de produzir ou envie o modelo desejado.
         actions: []
         elementId: null
