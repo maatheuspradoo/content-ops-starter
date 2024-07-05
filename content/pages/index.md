@@ -470,7 +470,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/depoimento google 1.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
